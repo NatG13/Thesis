@@ -11,7 +11,7 @@ This notebook focuses on data preprocessing and cleaning. It includes:
 - Descriptive statistics and visualizations
 - Preparing the dataset for further analysis
 
-### 2. `main_analysis.ipynb`
+### 2. `main.ipynb`
 This notebook contains the core analysis for the thesis, including:
 - Application of clustering techniques
 - Visualization of findings
