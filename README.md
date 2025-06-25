@@ -1,6 +1,6 @@
 # Master's Thesis - Data Analysis Code
 
-This repository contains the code used in the Master's thesis of **Natalie Giotopoulou**. The code is organized into two Jupyter notebooks, each handling a different part of the data processing and analysis pipeline.
+This repository contains the code used in the Master's thesis of **Natalia Giotopoulou**. The code is organized into two Jupyter notebooks, each handling a different part of the data processing and analysis pipeline.
 
 ## Notebooks Overview
 
